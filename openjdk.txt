@@ -1,0 +1,5 @@
+﻿OpenJDK（Open Java Development Kit）は、Java Platform、Standard Edition（Java SE）のフリーでオープンソースの実装です。
+これは、2006年にSun Microsystemsが始めた取り組みの成果です。
+実装には、GNU General Public License（GNU GPL）バージョン2の下でリンク例外を使用してライセンスが与えられています。
+GPLリンク例外でない場合、JavaクラスライブラリにリンクされたコンポーネントはGPLライセンスの条件に従います。
+OpenJDKはバージョン7以降のJava SEの公式リファレンス実装です。(WIKIPEDIA 英語版より)
